@@ -1,5 +1,4 @@
 package com.test;
 
-public class wyx {
-
+public class wyx2 {
 }
